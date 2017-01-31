@@ -1,7 +1,8 @@
 # Programacion_Orientada_a_Objetos
 Claudia Andrea Pérez Juarez
 
-void setup() {
+void setup() 
+{
   size(500, 400);
   background(10, 80, 100);
 }
